@@ -44,6 +44,7 @@
 #define RGB_MATRIX_BAT_INDEX_MAP            {25, 26, 27, 28, 29, 30, 31, 32, 33, 34}
 
 /* Status Indicator Lamp */
+#define HS_SLEEP_TIMEOUT                    300000
 #define HS_MATRIX_BLINK_INDEX_BAT           1
 #define HS_RGB_INDEX_CAPS                   52
 #define HS_RGB_INDEX_WIN_LOCK               79
